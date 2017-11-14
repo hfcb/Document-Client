@@ -8,3 +8,9 @@
 
 三. token有效期
 	accesstoken是12小时，refreshtoken是30天
+
+四. 资讯部分字段含义:
+	status:发布状态：
+		1.未发布；2.已发布
+	type: 资讯类别：
+		1.企业资讯；2.活动资讯；3.操作指南
